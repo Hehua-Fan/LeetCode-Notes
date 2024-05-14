@@ -11,12 +11,12 @@
 ## 代码
 ```python
 class Solution:
-    def findRepeatNumber(self, nums: List[int]) -> int:
-        nums_dict = dict()
+    def findRepeatDocument(self, nums: List[int]) -> int:
+        tmp = dict()
         for num in nums:
-            if num in nums_dict:
+            if num in tmp:
                 return num
-            nums_dict[num] = 1
+            tmp[num] = 1
         return -1
 ```
 
