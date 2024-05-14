@@ -22,7 +22,10 @@
 1.滑动窗口（超时）
 
 2.归并排序merge sort，在合并的过程中计算逆序对
-![](img/51.png)
+
+<center>
+<img src="img/51.png" width=70%></img>
+</center>
 
 ## 代码
 ### 思路1：滑动窗口
