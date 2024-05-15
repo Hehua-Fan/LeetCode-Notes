@@ -6,7 +6,7 @@ Notes for MLE tech interviews, including 剑指Offer, Hot100, and NeetCode75
 * [剑指 Offer 51. 逆序对](剑指Offer/剑指Offer51.逆序对.md)
 
 ## Hot100 [2/100]
-* [LeetCode 3. Longest Substring Without Repeating Characters](Hot100/LeetCode 3. Longest Substring Without Repeating Characters.md)
-* [LeetCode 215. Kth Largest Element in an Array](Hot100/LeetCode 215. Kth Largest Element in an Array.md)
+* [LeetCode 3. Longest Substring Without Repeating Characters](Hot100/LeetCode\ 3.\ Longest\ Substring\ Without Repeating\ Characters.md)
+* [LeetCode 215. Kth Largest Element in an Array](Hot100/LeetCode\ 215.\ Kth\ Largest\ Element\ in\ an\ Array.md)
 
 ## NeetCode [/75]
