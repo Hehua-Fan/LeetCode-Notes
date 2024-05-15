@@ -56,7 +56,7 @@ if  __name__=='__main__':
 * Space Complexity: $O(1)$
 
 
-## 思路2: 归并排序
+### 思路2: 归并排序
 ```python
 class Solution:
     def reversePairs(self, record):
