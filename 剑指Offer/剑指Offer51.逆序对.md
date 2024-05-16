@@ -28,7 +28,7 @@
 </center>
 
 ## 代码
-### 思路1：滑动窗口
+### 思路1：滑动窗口（超时）
 ```python
 class Solution:
     def reversePairs(self, record):

@@ -1,12 +1,31 @@
 # LeetCode-Notes
 Notes for MLE tech interviews, including 剑指Offer, Hot100, and NeetCode75
 
-## 剑指Offer [2/66]
-* [剑指 Offer 03. 数组中重复的数字](剑指Offer/剑指Offer03.数组中重复的数字.md)
-* [剑指 Offer 51. 逆序对](剑指Offer/剑指Offer51.逆序对.md)
+* 剑指Offer [2/66]
+* Hot100 [5/100]
+* NeetCode [/75]
 
-## Hot100 [2/100]
-* [LeetCode 3. Longest Substring Without Repeating Characters](Hot100/LeetCode003.LongestSubstringWithoutRepeatingCharacters.md)
+## Hash
+* [剑指 Offer 03. 数组中重复的数字](剑指Offer/剑指Offer03.数组中重复的数字.md)
+* [LeetCode 001. Two Sum](Hot100/LeetCode001.TwoSum.md)
+
+## Two Pointers
+![alt text](img/twopointers.png)
+
+**opposite direction**
+* [LeetCode 011. Container With Most Water](Hot100/LeetCode011.ContainerWithMostWater.md)
+* [LeetCode 015. Three Sum](Hot100/LeetCode015.ThreeSum.md)
+
+**same direction**
+
+
+**sliding window**
+* [LeetCode 003. Longest Substring Without Repeating Characters](Hot100/LeetCode003.LongestSubstringWithoutRepeatingCharacters.md)
+
+
+## Sort
+**Quick Sort**
 * [LeetCode 215. Kth Largest Element in an Array](Hot100/LeetCode215.KthLargestElementinanArray.md)
 
-## NeetCode [/75]
+**Merge Sort**
+* [剑指 Offer 51. 逆序对](剑指Offer/剑指Offer51.逆序对.md)
