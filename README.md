@@ -2,7 +2,7 @@
 Notes for MLE tech interviews, including 剑指Offer, Hot100, and NeetCode75
 
 * 剑指Offer [2/66]
-* Hot100 [5/100]
+* Hot100 [6/100]
 * NeetCode [/75]
 
 ## Hash
@@ -29,3 +29,6 @@ Notes for MLE tech interviews, including 剑指Offer, Hot100, and NeetCode75
 
 **Merge Sort**
 * [剑指 Offer 51. 逆序对](剑指Offer/剑指Offer51.逆序对.md)
+
+## Graph
+* [LeetCode 208. Implement Trie (Prefix Tree)](Hot100/LeetCode208.ImplementTrie.md)
