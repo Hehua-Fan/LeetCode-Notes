@@ -23,6 +23,9 @@ Notes for MLE tech interviews, including 剑指Offer, Hot100, and NeetCode75
 **sliding window**
 * [LeetCode 003. Longest Substring Without Repeating Characters](Hot100/LeetCode003.LongestSubstringWithoutRepeatingCharacters.md)
 
+## Tree/Recursion
+* [LeetCode 104. Maximum Depth of Binary Tree](Hot100/LeetCode104.MaximumDepthofBinaryTree.md)
+
 ## Sort
 **Quick Sort**
 * [LeetCode 215. Kth Largest Element in an Array](Hot100/LeetCode215.KthLargestElementinanArray.md)
