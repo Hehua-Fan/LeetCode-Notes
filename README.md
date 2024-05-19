@@ -15,10 +15,10 @@ Notes for MLE tech interviews, including 剑指Offer, Hot100, and NeetCode75
 **opposite direction**
 * [LeetCode 011. Container With Most Water](Hot100/LeetCode011.ContainerWithMostWater.md)
 * [LeetCode 015. Three Sum](Hot100/LeetCode015.ThreeSum.md)
-* [LeetCode 042.TrappingRainWater](Hot100/LeetCode042.TrappingRainWater.md)
+* [LeetCode 042. TrappingRainWater](Hot100/LeetCode042.TrappingRainWater.md)
 
 **same direction**
-* [LeetCode 160.Intersection of Two Linked Lists](Hot100/LeetCode160.IntersectionofTwoLinkedLists.md)
+* [LeetCode 160. Intersection of Two Linked Lists](Hot100/LeetCode160.IntersectionofTwoLinkedLists.md)
 
 **sliding window**
 * [LeetCode 003. Longest Substring Without Repeating Characters](Hot100/LeetCode003.LongestSubstringWithoutRepeatingCharacters.md)
