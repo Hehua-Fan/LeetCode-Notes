@@ -25,6 +25,7 @@ Notes for MLE tech interviews, including 剑指Offer, Hot100, and NeetCode75
 
 ## Tree/Recursion
 * [LeetCode 104. Maximum Depth of Binary Tree](Hot100/LeetCode104.MaximumDepthofBinaryTree.md)
+* [LeetCode 101. Symmetric Tree](Hot100/LeetCode101.SymmetricTree.md)
 
 ## Sort
 **Quick Sort**

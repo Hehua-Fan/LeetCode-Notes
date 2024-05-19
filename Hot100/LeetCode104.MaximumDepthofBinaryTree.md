@@ -18,7 +18,8 @@ Output: 2
 
 ## 解题思路
 1.分解成子问题（递归：自顶向下递，到达base case后，自下向上归）
-<img src="img/104.png" width=70%></img>
+
+<img src="img/104.png" width=60%></img>
 
 2.遍历二叉树（自顶向下递，在前序位置计算）
 
