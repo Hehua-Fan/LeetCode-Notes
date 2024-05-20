@@ -2,7 +2,7 @@
 Notes for MLE tech interviews, including 剑指Offer, Hot100, and NeetCode75
 
 * 剑指Offer [2/66]
-* Hot100 [6/100]
+* Hot100 [11/100]
 * NeetCode [/75]
 
 ## Hash
@@ -10,7 +10,7 @@ Notes for MLE tech interviews, including 剑指Offer, Hot100, and NeetCode75
 * [LeetCode 001. Two Sum](Hot100/LeetCode001.TwoSum.md)
 
 ## Two Pointers
-![alt text](img/twopointers.png)
+<img src="img/twopointers.png" width=70%></img>
 
 **opposite direction**
 * [LeetCode 011. Container With Most Water](Hot100/LeetCode011.ContainerWithMostWater.md)
